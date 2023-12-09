@@ -1,0 +1,4 @@
+$ git init
+$ echo "node_modules/" >> .gitignore  # exemplo para Node.js, ajuste conforme a linguagem
+$ git add .
+$ git commit -m "Primeiro commit"
